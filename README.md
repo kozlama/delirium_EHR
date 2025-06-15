@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8cebbb7e-bdd1-4de9-a79c-92234745a9d6)# Comorbidities associated with a clinically-recognized delirium diagnosis in the hospital using real world data
+# Comorbidities associated with a clinically-recognized delirium diagnosis in the hospital using real world data
 
 Authors: Lay Kodama, Sarah Woldemariam, Alice Tang, Yaqiao Li, John Kornak, Isabel Elaine Allen, Eva Raphael, Tomiko Oskotsky, Marina Sirota
 
